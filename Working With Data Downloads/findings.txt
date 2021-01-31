@@ -1,0 +1,5 @@
+We can see that there are more magnet schools than JJ schools. Also, there are only 8 JJ schools and 52 Magnet schools out of 1000.
+
+The pivot table shows us that the distribution of genders among magnet schools is almost equal. However in JJ schools, male student ratio is much higher with almost 85%.
+
+If we compare the overall population of the United States, broken down by race and gender (Wikipedia U.S. race demography page) with our results; our findings showed that there are less white students enrolled, with approximately %24 white females and 26% white males. This is because Wikipedia page considers Hispanic as "Two or more races" whereas we considered it as one race. Thus our findings on white race percentage is different.
